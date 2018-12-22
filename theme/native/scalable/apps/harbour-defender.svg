@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 192 192"
+   style="enable-background:new 0 0 192 192;"
+   xml:space="preserve"
+   sodipodi:docname="harbour-defender.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11"><metadata
+   id="metadata65"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs63" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview61"
+   showgrid="false"
+   inkscape:zoom="1.2291667"
+   inkscape:cx="96"
+   inkscape:cy="96"
+   inkscape:window-x="0"
+   inkscape:window-y="34"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="图层_1-2" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:none;}
+	.st1{opacity:1.000000e-02;enable-background:new    ;}
+	.st2{opacity:2.000000e-02;enable-background:new    ;}
+	.st3{opacity:4.000000e-02;enable-background:new    ;}
+	.st4{opacity:6.000000e-02;enable-background:new    ;}
+	.st5{fill:#59C959;}
+	.st6{fill:url(#SVGID_1_);}
+	.st7{fill:url(#SVGID_2_);}
+	.st8{fill:url(#SVGID_3_);}
+	.st9{opacity:0.4;fill:url(#SVGID_4_);enable-background:new    ;}
+	.st10{fill:#FAFAFA;}
+	.st11{fill:#FFFFFF;}
+</style>
+<title
+   id="title4">adguard</title>
+<g
+   id="图层_2_1_">
+	<g
+   id="图层_1-2">
+		<rect
+   class="st0"
+   width="192"
+   height="192"
+   id="rect6"
+   x="0"
+   y="0"
+   style="fill:none" />
+		
+		
+		
+		
+		<path
+   class="st5"
+   d="m 186,96 c 0,66.7 -23.3,90 -90,90 C 29.3,186 6,162.7 6,96 6,29.3 29.3,6 96,6 c 66.7,0 90,23.3 90,90 z"
+   id="path16"
+   inkscape:connector-curvature="0"
+   style="fill:#59c959" />
+		
+			<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="166.0041"
+   y1="472.0022"
+   x2="25.997801"
+   y2="331.99591"
+   gradientTransform="translate(0,-306)">
+			<stop
+   offset="0"
+   style="stop-color:#000000;stop-opacity:0.1"
+   id="stop18" />
+			<stop
+   offset="0.5"
+   style="stop-color:#808080;stop-opacity:5.000000e-02"
+   id="stop20" />
+			<stop
+   offset="1"
+   style="stop-color:#FFFFFF;stop-opacity:0.15"
+   id="stop22" />
+		</linearGradient>
+		<path
+   class="st6"
+   d="m 186,96 c 0,66.7 -23.3,90 -90,90 C 29.3,186 6,162.7 6,96 6,29.3 29.3,6 96,6 c 66.7,0 90,23.3 90,90 z"
+   id="path25"
+   inkscape:connector-curvature="0"
+   style="fill:url(#SVGID_1_)" />
+		
+			<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="166.0128"
+   y1="424.01221"
+   x2="25.9872"
+   y2="283.98779"
+   gradientTransform="translate(0,-258)">
+			<stop
+   offset="0"
+   style="stop-color:#000000;stop-opacity:4.000000e-02"
+   id="stop27" />
+			<stop
+   offset="0.5"
+   style="stop-color:#808080;stop-opacity:0"
+   id="stop29" />
+			<stop
+   offset="1"
+   style="stop-color:#FFFFFF;stop-opacity:0.1"
+   id="stop31" />
+		</linearGradient>
+		<path
+   class="st7"
+   d="M 96,6 C 29.3,6 6,29.3 6,96 c 0,66.7 23.3,90 90,90 66.7,0 90,-23.3 90,-90 C 186,29.3 162.7,6 96,6 Z m 68.6,158.6 C 151.2,178 130,184 96,184 62,184 40.8,178 27.4,164.6 14,151.2 8,130 8,96 8,62 14,40.8 27.4,27.4 40.8,14 62,8 96,8 130,8 151.2,14 164.6,27.4 178,40.8 184,62 184,96 c 0,34 -6,55.2 -19.4,68.6 z"
+   id="path34"
+   inkscape:connector-curvature="0"
+   style="fill:url(#SVGID_2_)" />
+		
+			<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="174.2099"
+   y1="36.210098"
+   x2="59.709999"
+   y2="150.71001"
+   gradientTransform="matrix(1,0,0,-1,0,194)">
+			<stop
+   offset="0"
+   style="stop-color:#000000;stop-opacity:2.000000e-02"
+   id="stop36" />
+			<stop
+   offset="1"
+   style="stop-color:#000000;stop-opacity:0.1"
+   id="stop38" />
+		</linearGradient>
+		<path
+   class="st8"
+   d="m 186,96 c 0,-2.7 0,-5.4 -0.1,-8 L 150.3,52.4 112,46 H 82 l -32,7 -4,13 7,36 17,33 49.8,49.8 C 168.3,179.2 186,154 186,96 Z"
+   id="path41"
+   inkscape:connector-curvature="0"
+   style="fill:url(#SVGID_3_)" />
+		
+			<linearGradient
+   id="SVGID_4_"
+   gradientUnits="userSpaceOnUse"
+   x1="129.6965"
+   y1="79.724197"
+   x2="62.3703"
+   y2="147.05029"
+   gradientTransform="matrix(1,0,0,-1,0,194)">
+			<stop
+   offset="0"
+   style="stop-color:#42E402;stop-opacity:0.1"
+   id="stop43" />
+			<stop
+   offset="1"
+   style="stop-color:#009F02"
+   id="stop45" />
+		</linearGradient>
+		<path
+   class="st9"
+   d="M 58.8,100.9 C 50.5,81.4 50.7,58.6 50.7,58.6 c 13.9,-6 28.8,-9.3 43.9,-9.7 16.2,-0.3 32.2,3.1 46.9,9.8 0.1,1.3 -0.2,17.6 -4,30.6 -3.5,12.4 -9.4,23.9 -17.5,33.9 -6.9,8.5 -15,15.8 -24,21.8 0,0 -24.8,-15.1 -37.2,-44.1 z"
+   id="path48"
+   inkscape:connector-curvature="0"
+   style="opacity:0.4;fill:url(#SVGID_4_);enable-background:new" />
+		<path
+   class="st10"
+   d="m 72.2,85.1 c 1.9,-1.2 6.7,-2.5 9.7,0.9 3,3.4 12.5,14.2 12.5,14.2 0,0 24,-26.9 27.9,-31 C 126.2,65.1 129,68 129,68 L 94.4,116.4 69.4,87 c 0,-0.1 0.9,-0.6 2.8,-1.9 z m 23.9,71.6 c 1,-0.6 18.3,-10.8 30.8,-26.6 13.2,-16.7 17.5,-29.4 20.1,-38.5 3.5,-12.4 4,-31.2 4.1,-37.2 0,-1.1 -0.6,-2.2 -1.6,-2.8 -5.3,-3.1 -24,-12.4 -53.9,-12.4 -18.3,0.1 -36.3,4.3 -52.7,12.3 -1,0.5 -1.7,1.6 -1.7,2.7 -0.2,6.4 -0.1,28.3 8,48.5 14.6,36.7 46.9,54 46.9,54 z M 58.8,100.9 C 50.5,81.4 50.7,58.6 50.7,58.6 c 13.9,-6 28.8,-9.3 43.9,-9.7 16.2,-0.3 32.2,3.1 46.9,9.8 0.1,1.3 -0.2,17.6 -4,30.6 -3.5,12.4 -9.4,23.9 -17.5,33.9 -6.9,8.5 -15,15.8 -24,21.8 0,0 -24.8,-15.1 -37.2,-44.1 z"
+   id="path50"
+   inkscape:connector-curvature="0"
+   style="fill:#fafafa" />
+		<path
+   class="st11"
+   d="m 122.2,69.1 c -3.9,4.2 -27.9,31 -27.9,31 0,0 -9.5,-10.9 -12.5,-14.2 -3,-3.3 -7.8,-2.1 -9.7,-0.9 -2,1.3 -2.8,1.9 -2.8,1.9 l 1.4,1.7 c 0.4,-0.3 1.2,-0.8 2.4,-1.6 1.9,-1.2 6.7,-2.5 9.7,0.9 3,3.4 12.5,14.2 12.5,14.2 0,0 24,-26.9 27.9,-31 2,-2.2 3.8,-2.4 5,-2.1 l 0.8,-1.1 c 0,0 -2.9,-3 -6.8,1.2 z"
+   id="path52"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff" />
+		<path
+   class="st11"
+   d="M 50,104.8 C 41.9,84.6 41.8,62.7 42,56.3 c 0,-1.2 0.7,-2.2 1.7,-2.7 16.4,-8 34.5,-12.2 52.7,-12.3 29.9,0 48.6,9.4 53.9,12.4 0.2,0.1 0.4,0.3 0.6,0.4 -0.1,-1 -0.7,-1.9 -1.6,-2.4 -5.3,-3.1 -24,-12.4 -53.9,-12.4 -18.3,0.1 -36.3,4.3 -52.7,12.3 -1,0.5 -1.7,1.6 -1.7,2.7 -0.2,6.4 -0.1,28.3 8,48.5 1.1,2.8 2.4,5.5 3.7,8.1 C 51.8,109 50.9,107 50,104.8 Z"
+   id="path54"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff" />
+		<path
+   class="st11"
+   d="m 97,147 c 9,-6 17.1,-13.4 23.9,-21.8 8,-10 14,-21.5 17.5,-33.9 3.9,-13 4.1,-29.3 4,-30.6 0,0 -0.3,-0.2 -1,-0.5 -0.1,4.6 -0.7,18 -4,29.1 -3.5,12.4 -9.4,23.9 -17.5,33.9 C 113.1,131.7 105,139 96,145 81.5,135.3 69.7,122.2 61.5,106.8 74.4,133.2 97,147 97,147 Z"
+   id="path56"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff" />
+	</g>
+</g>
+</svg>

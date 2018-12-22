@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192" viewBox="0 0 192 192">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.01;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        opacity: 0.02;
+      }
+
+      .cls-4 {
+        opacity: 0.04;
+      }
+
+      .cls-5 {
+        opacity: 0.06;
+      }
+
+      .cls-6 {
+        fill: #0af;
+      }
+
+      .cls-7 {
+        fill: url(#未命名的渐变_70);
+      }
+
+      .cls-8 {
+        fill: url(#未命名的渐变_2);
+      }
+
+      .cls-9 {
+        fill: url(#未命名的渐变_89);
+      }
+
+      .cls-10 {
+        fill: #c7efff;
+      }
+
+      .cls-11, .cls-13 {
+        fill: #fff;
+      }
+
+      .cls-11 {
+        opacity: 0.2;
+      }
+
+      .cls-12 {
+        fill: #fafafa;
+      }
+
+      .cls-14 {
+        fill: url(#未命名的渐变_87);
+      }
+
+      .cls-15 {
+        fill: #c3d9ed;
+        opacity: 0.8;
+      }
+    </style>
+    <linearGradient id="未命名的渐变_70" data-name="未命名的渐变 70" x1="166.004" y1="27.998" x2="25.998" y2="168.004" gradientTransform="matrix(1, 0, 0, -1, 0, 194)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-opacity="0.1"/>
+      <stop offset="0.5" stop-color="gray" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_2" data-name="未命名的渐变 2" x1="166.012" y1="75.988" x2="25.987" y2="216.012" gradientTransform="matrix(1, 0, 0, -1, 0, 242)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-opacity="0.04"/>
+      <stop offset="0.5" stop-color="gray" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_89" data-name="未命名的渐变 89" x1="162.566" y1="169.437" x2="87.389" y2="94.259" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-opacity="0.02"/>
+      <stop offset="1" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_87" data-name="未命名的渐变 87" x1="125" y1="105" x2="150" y2="105" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0041b4" stop-opacity="0.25"/>
+      <stop offset="0.151" stop-color="#003dac" stop-opacity="0.184"/>
+      <stop offset="0.522" stop-color="#00359c" stop-opacity="0.05"/>
+      <stop offset="0.75" stop-color="#003296" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <title>miui_news</title>
+  <g id="图层_2" data-name="图层 2">
+    <g id="图层_1-2" data-name="图层 1">
+      <rect class="cls-1" width="192" height="192"/>
+      <g>
+        <path class="cls-2" d="M96,190C27.3,190,3,165.7,3,97S27.3,4,96,4s93,24.3,93,93S164.7,190,96,190Z"/>
+        <path class="cls-3" d="M96,189C28.1,189,4,164.9,4,97S28.1,5,96,5s92,24.1,92,92S163.9,189,96,189Z"/>
+        <path class="cls-4" d="M96,188C28.8,188,5,164.2,5,97S28.8,6,96,6s91,23.8,91,91S163.2,188,96,188Z"/>
+        <path class="cls-5" d="M186,97c0,66.7-23.3,90-90,90S6,163.7,6,97,29.3,7,96,7,186,30.3,186,97Z"/>
+      </g>
+      <path class="cls-6" d="M186,96c0,66.7-23.3,90-90,90S6,162.7,6,96,29.3,6,96,6,186,29.3,186,96Z"/>
+      <path class="cls-7" d="M186,96c0,66.67-23.32,90-90,90S6,162.67,6,96,29.32,6,96,6,186,29.32,186,96Z"/>
+      <path class="cls-8" d="M96,6C29.3,6,6,29.3,6,96s23.3,90,90,90,90-23.3,90-90S162.7,6,96,6Zm68.6,158.6C151.2,178,130,184,96,184s-55.2-6-68.6-19.4S8,130,8,96s6-55.2,19.4-68.6S62,8,96,8s55.2,6,68.6,19.4S184,62,184,96,178,151.2,164.6,164.6Z"/>
+      <path class="cls-9" d="M185.7,108.438l-37.6-37.6-1.01,1.076L128.41,53.238,48,139l46.994,46.994c.337,0,.667.006,1.006.006C158.351,186,182.787,165.6,185.7,108.438Z"/>
+      <rect class="cls-10" x="70" y="68" width="80" height="74" rx="8" ry="8"/>
+      <path class="cls-11" d="M71,136V78a8.024,8.024,0,0,1,8-8h64a8,8,0,0,1,6.581,3.472A8.025,8.025,0,0,0,142,68H78a8.024,8.024,0,0,0-8,8v58a7.932,7.932,0,0,0,1.419,4.528A7.907,7.907,0,0,1,71,136Z"/>
+      <path class="cls-12" d="M54,50h68a8,8,0,0,1,8,8v79a5,5,0,0,1-5,5H54a8,8,0,0,1-8-8V58A8,8,0,0,1,54,50Z"/>
+      <path class="cls-13" d="M47,136V60a8.024,8.024,0,0,1,8-8h68a8,8,0,0,1,6.581,3.472A8.025,8.025,0,0,0,122,50H54a8.024,8.024,0,0,0-8,8v76a7.932,7.932,0,0,0,1.419,4.528A7.907,7.907,0,0,1,47,136Z"/>
+      <path class="cls-14" d="M142,68H130v69a5,5,0,0,1-5,5h17a8.024,8.024,0,0,0,8-8V76A8.024,8.024,0,0,0,142,68Z"/>
+      <path class="cls-15" d="M112,96H64a2.006,2.006,0,0,1-2-2h0a2.006,2.006,0,0,1,2-2h48a2.006,2.006,0,0,1,2,2h0A2.006,2.006,0,0,1,112,96Zm-4.5,12h0a2.006,2.006,0,0,0-2-2H64a2.006,2.006,0,0,0-2,2h0a2.006,2.006,0,0,0,2,2h41.5A2.006,2.006,0,0,0,107.5,108ZM114,80h0a2.006,2.006,0,0,0-2-2H64a2.006,2.006,0,0,0-2,2h0a2.006,2.006,0,0,0,2,2h48A2.006,2.006,0,0,0,114,80Z"/>
+    </g>
+  </g>
+</svg>

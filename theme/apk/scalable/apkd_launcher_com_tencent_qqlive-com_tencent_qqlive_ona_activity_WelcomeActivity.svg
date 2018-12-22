@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="图层_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 192 192"
+   style="enable-background:new 0 0 192 192;"
+   xml:space="preserve"
+   sodipodi:docname="apkd_launcher_com_tencent_qqlive-com_tencent_qqlive_ona_activity_WelcomeActivity.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11"><metadata
+   id="metadata79"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs77" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="706"
+   id="namedview75"
+   showgrid="false"
+   inkscape:zoom="1.2291667"
+   inkscape:cx="96.000003"
+   inkscape:cy="96.000003"
+   inkscape:window-x="0"
+   inkscape:window-y="34"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="图层_2-2" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:none;}
+	.st1{opacity:1.000000e-02;enable-background:new    ;}
+	.st2{opacity:2.000000e-02;enable-background:new    ;}
+	.st3{opacity:4.000000e-02;enable-background:new    ;}
+	.st4{opacity:6.000000e-02;enable-background:new    ;}
+	.st5{fill:#0092FF;}
+	.st6{fill:url(#SVGID_1_);}
+	.st7{fill:url(#SVGID_2_);}
+	.st8{fill:url(#SVGID_3_);}
+	.st9{fill:#72EA13;}
+	.st10{fill:#3BB9FF;}
+	.st11{fill:#FF9003;}
+	.st12{fill:url(#SVGID_4_);}
+	.st13{fill:#FFFFFF;}
+	.st14{fill:url(#SVGID_5_);}
+	.st15{fill:url(#SVGID_6_);}
+</style>
+<title
+   id="title4">tencent_qqlive</title>
+<g
+   id="图层_2_1_">
+	<g
+   id="图层_2-2">
+		<rect
+   class="st0"
+   width="192"
+   height="192"
+   id="rect6"
+   x="0"
+   y="0"
+   style="fill:none" />
+		
+		
+		
+		
+		<path
+   class="st5"
+   d="m 186,96 c 0,66.7 -23.3,90 -90,90 C 29.3,186 6,162.7 6,96 6,29.3 29.3,6 96,6 c 66.7,0 90,23.3 90,90 z"
+   id="path16"
+   inkscape:connector-curvature="0"
+   style="fill:#0092ff" />
+		
+			<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="166.0041"
+   y1="25.997801"
+   x2="25.997801"
+   y2="166.0041"
+   gradientTransform="matrix(1,0,0,-1,0,192)">
+			<stop
+   offset="0"
+   style="stop-color:#000000;stop-opacity:0.1"
+   id="stop18" />
+			<stop
+   offset="0.5"
+   style="stop-color:#808080;stop-opacity:5.000000e-02"
+   id="stop20" />
+			<stop
+   offset="1"
+   style="stop-color:#FFFFFF;stop-opacity:0.12"
+   id="stop22" />
+		</linearGradient>
+		<path
+   class="st6"
+   d="m 186,96 c 0,66.7 -23.3,90 -90,90 C 29.3,186 6,162.7 6,96 6,29.3 29.3,6 96,6 c 66.7,0 90,23.3 90,90 z"
+   id="path25"
+   inkscape:connector-curvature="0"
+   style="fill:url(#SVGID_1_)" />
+		
+			<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="166.0022"
+   y1="25.995899"
+   x2="25.994101"
+   y2="166.0041"
+   gradientTransform="matrix(1,0,0,-1,0,192)">
+			<stop
+   offset="0"
+   style="stop-color:#000000;stop-opacity:5.000000e-02"
+   id="stop27" />
+			<stop
+   offset="0.5"
+   style="stop-color:#808080;stop-opacity:0"
+   id="stop29" />
+			<stop
+   offset="1"
+   style="stop-color:#FFFFFF;stop-opacity:0.1"
+   id="stop31" />
+		</linearGradient>
+		<path
+   class="st7"
+   d="M 96,6 C 29.3,6 6,29.3 6,96 c 0,66.7 23.3,90 90,90 66.7,0 90,-23.3 90,-90 C 186,29.3 162.7,6 96,6 Z m 68.6,158.6 C 151.2,178 130,184 96,184 62,184 40.8,178 27.4,164.6 14,151.2 8,130 8,96 8,62 14,40.8 27.4,27.4 40.8,14 62,8 96,8 130,8 151.2,14 164.6,27.4 178,40.8 184,62 184,96 c 0,34 -6,55.2 -19.4,68.6 z"
+   id="path34"
+   inkscape:connector-curvature="0"
+   style="fill:url(#SVGID_2_)" />
+		
+			<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="161.2843"
+   y1="21.2456"
+   x2="85.264999"
+   y2="97.264999"
+   gradientTransform="matrix(1,0,0,-1,0,192)">
+			<stop
+   offset="0"
+   style="stop-color:#000000;stop-opacity:2.000000e-02"
+   id="stop36" />
+			<stop
+   offset="1"
+   style="stop-color:#000000;stop-opacity:0.14"
+   id="stop38" />
+		</linearGradient>
+		<path
+   class="st8"
+   d="m 47.2,132.8 53.1,53.2 c 55.6,-0.9 79.6,-19.3 84.6,-67.8 L 147.5,80.8 Z"
+   id="path41"
+   inkscape:connector-curvature="0"
+   style="fill:url(#SVGID_3_)" />
+		<path
+   class="st9"
+   d="m 60.4,56 c -2.7,10.3 -3.6,25.9 -4.1,40.8 -0.6,14.6 0.4,29.1 3.8,38.9 C 84.1,134.1 132,104.3 132,94.2 132,84.1 84.9,58.5 60.4,56 Z"
+   id="path43"
+   inkscape:connector-curvature="0"
+   style="fill:#72ea13" />
+		<path
+   class="st10"
+   d="m 67.4,44.4 c -3.2,1.2 -5.4,5.4 -7,11.6 24.5,2.5 71.6,28.2 71.6,38.2 0,10 -47.9,40 -71.9,41.5 1.8,5.3 4.3,9.2 7.6,11.1 C 87.4,158.1 156,108.8 156,93.6 156,78.4 87.8,36.9 67.4,44.4 Z"
+   id="path45"
+   inkscape:connector-curvature="0"
+   style="fill:#3bb9ff" />
+		<path
+   class="st11"
+   d="m 60.1,135.7 c -3.4,-9.8 -4.4,-24.3 -3.8,-38.9 0.6,-15 1.5,-30.5 4.1,-40.8 3,0.3 -4.9,-0.9 -9.3,0.6 -8.6,2.8 -11,21.3 -11.1,39.4 -0.1,17 0.5,34.4 9.3,38.5 2.4,1.1 7.8,1.4 11.5,1.1 z"
+   id="path47"
+   inkscape:connector-curvature="0"
+   style="fill:#ff9003" />
+		
+			<linearGradient
+   id="SVGID_4_"
+   gradientUnits="userSpaceOnUse"
+   x1="106.94"
+   y1="70.709999"
+   x2="85.199997"
+   y2="92.449997"
+   gradientTransform="matrix(1,0,0,-1,0,192)">
+			<stop
+   offset="0"
+   style="stop-color:#000000;stop-opacity:4.000000e-02"
+   id="stop49" />
+			<stop
+   offset="1"
+   style="stop-color:#000000;stop-opacity:0.16"
+   id="stop51" />
+		</linearGradient>
+		<path
+   class="st12"
+   d="M 105.2,92 71.4,113.3 86.1,128 c 12.3,-5.5 23.9,-12.4 34.7,-20.5 z"
+   id="path54"
+   inkscape:connector-curvature="0"
+   style="fill:url(#SVGID_4_)" />
+		<path
+   class="st13"
+   d="m 74.3,114.5 c -2.1,0 -3.9,-1.7 -4,-3.8 -0.2,-4.2 -0.2,-8.7 0,-13.3 0.3,-6.7 0.5,-12 0.8,-16.6 0.2,-2.2 2.1,-3.9 4.3,-3.7 0.4,0 0.8,0.1 1.2,0.3 9.7,3.9 19,8.6 27.9,14 1.9,1.2 2.5,3.6 1.3,5.5 -0.3,0.5 -0.6,0.8 -1.1,1.2 -4.8,3.4 -9.7,6.4 -14.9,9.3 -4.8,2.7 -9.5,5 -14,6.9 -0.5,0.1 -1,0.2 -1.5,0.2 z"
+   id="path56"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff" />
+		
+			<linearGradient
+   id="SVGID_5_"
+   gradientUnits="userSpaceOnUse"
+   x1="117.6156"
+   y1="54.667198"
+   x2="88.1614"
+   y2="84.121399"
+   gradientTransform="matrix(1,0,0,-1,0,192)">
+			<stop
+   offset="0"
+   style="stop-color:#000000;stop-opacity:4.000000e-02"
+   id="stop58" />
+			<stop
+   offset="1"
+   style="stop-color:#000000;stop-opacity:0.16"
+   id="stop60" />
+		</linearGradient>
+		<path
+   class="st14"
+   d="M 147.6,107.3 128.3,88 c 2.3,2.4 3.6,4.5 3.6,6.2 0,10 -47.4,39.7 -71.5,41.5 l -0.3,0.2 c 1.8,5.2 4.3,9.1 7.6,11 15.5,8.8 61,-19.6 79.9,-39.6 z"
+   id="path63"
+   inkscape:connector-curvature="0"
+   style="fill:url(#SVGID_5_)" />
+		
+			<linearGradient
+   id="SVGID_6_"
+   gradientUnits="userSpaceOnUse"
+   x1="127.77"
+   y1="104.51"
+   x2="127.7"
+   y2="104.58"
+   gradientTransform="matrix(1,0,0,-1,0,192)">
+			<stop
+   offset="0"
+   style="stop-color:#000000;stop-opacity:4.000000e-02"
+   id="stop65" />
+			<stop
+   offset="1"
+   style="stop-color:#000000;stop-opacity:0.16"
+   id="stop67" />
+		</linearGradient>
+		<path
+   class="st15"
+   d="M 127.8,87.5 Z"
+   id="path70"
+   inkscape:connector-curvature="0"
+   style="fill:url(#SVGID_6_)" />
+	</g>
+</g>
+</svg>

@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192" viewBox="0 0 192 192">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.01;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        opacity: 0.02;
+      }
+
+      .cls-4 {
+        opacity: 0.04;
+      }
+
+      .cls-5 {
+        opacity: 0.06;
+      }
+
+      .cls-6 {
+        fill: #ff9100;
+      }
+
+      .cls-7 {
+        fill: #ffb10f;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        opacity: 0.2;
+      }
+
+      .cls-8 {
+        fill: #fece27;
+      }
+
+      .cls-9 {
+        fill: #fee972;
+      }
+
+      .cls-10 {
+        fill: #fff6b8;
+      }
+
+      .cls-11 {
+        fill: #e86300;
+      }
+
+      .cls-12 {
+        fill: url(#未命名的渐变_127);
+      }
+
+      .cls-13 {
+        fill: #f96a00;
+      }
+
+      .cls-14 {
+        fill: #ff8b17;
+        opacity: 0.4;
+      }
+
+      .cls-15 {
+        fill: url(#未命名的渐变_44);
+      }
+
+      .cls-16 {
+        fill: url(#未命名的渐变_2);
+      }
+    </style>
+    <linearGradient id="未命名的渐变_127" data-name="未命名的渐变 127" x1="99.1" y1="204.107" x2="29.791" y2="121.507" gradientUnits="userSpaceOnUse">
+      <stop offset="0.35" stop-color="#dc6300" stop-opacity="0.5"/>
+      <stop offset="0.6" stop-color="#984400" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_44" data-name="未命名的渐变 44" x1="166.004" y1="27.998" x2="25.998" y2="168.004" gradientTransform="matrix(1, 0, 0, -1, 0, 194)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-opacity="0.1"/>
+      <stop offset="0.5" stop-color="gray" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_2" data-name="未命名的渐变 2" x1="166.012" y1="75.988" x2="25.987" y2="216.012" gradientTransform="matrix(1, 0, 0, -1, 0, 242)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-opacity="0.04"/>
+      <stop offset="0.5" stop-color="gray" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <title>miui_gallery</title>
+  <g id="图层_2" data-name="图层 2">
+    <g id="图层_1-2" data-name="图层 1">
+      <rect class="cls-1" width="192" height="192"/>
+      <g>
+        <path class="cls-2" d="M96,190C27.3,190,3,165.7,3,97S27.3,4,96,4s93,24.3,93,93S164.7,190,96,190Z"/>
+        <path class="cls-3" d="M96,189C28.1,189,4,164.9,4,97S28.1,5,96,5s92,24.1,92,92S163.9,189,96,189Z"/>
+        <path class="cls-4" d="M96,188C28.8,188,5,164.2,5,97S28.8,6,96,6s91,23.8,91,91S163.2,188,96,188Z"/>
+        <path class="cls-5" d="M186,97c0,66.7-23.3,90-90,90S6,163.7,6,97,29.3,7,96,7,186,30.3,186,97Z"/>
+      </g>
+      <path class="cls-6" d="M186,96c0,66.7-23.3,90-90,90S6,162.7,6,96,29.3,6,96,6,186,29.3,186,96Z"/>
+      <path class="cls-7" d="M79,54A80.094,80.094,0,0,0,6.053,101.219C7.274,163.887,31.093,186,96,186c20.113,0,36.275-2.127,49.048-6.922A79.952,79.952,0,0,0,79,54Z"/>
+      <path class="cls-8" d="M139,134A60,60,0,1,0,31.84,171.026C46.089,181.561,66.92,186,96,186c4.719,0,9.212-.121,13.5-.362A60.02,60.02,0,0,0,139,134Z"/>
+      <circle class="cls-9" cx="79" cy="134" r="40"/>
+      <circle class="cls-10" cx="79" cy="134" r="24"/>
+      <path class="cls-11" d="M10.544,137.656C20.116,172.739,45.737,186,96,186a201.913,201.913,0,0,0,26.545-1.566,104.166,104.166,0,0,0-112-46.778Z"/>
+      <path class="cls-12" d="M10.544,137.656C20.116,172.739,45.737,186,96,186a201.913,201.913,0,0,0,26.545-1.566,104.166,104.166,0,0,0-112-46.778Z"/>
+      <path class="cls-13" d="M46.732,179c12.807,4.853,29.039,7,49.268,7,58.462,0,83.592-17.937,88.9-67.291A140.168,140.168,0,0,0,46.732,179Z"/>
+      <path class="cls-14" d="M164,119a140.927,140.927,0,0,1,20.674,1.541c.073-.613.157-1.209.224-1.832A140.168,140.168,0,0,0,46.732,179c.627.237,1.268.463,1.911.687A139.83,139.83,0,0,1,164,119Z"/>
+      <path class="cls-15" d="M186,96c0,66.67-23.32,90-90,90S6,162.67,6,96,29.32,6,96,6,186,29.32,186,96Z"/>
+      <path class="cls-16" d="M96,6C29.3,6,6,29.3,6,96s23.3,90,90,90,90-23.3,90-90S162.7,6,96,6Zm68.6,158.6C151.2,178,130,184,96,184s-55.2-6-68.6-19.4S8,130,8,96s6-55.2,19.4-68.6S62,8,96,8s55.2,6,68.6,19.4S184,62,184,96,178,151.2,164.6,164.6Z"/>
+    </g>
+  </g>
+</svg>

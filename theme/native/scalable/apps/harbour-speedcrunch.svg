@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192" viewBox="0 0 192 192">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.01;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        opacity: 0.02;
+      }
+
+      .cls-4 {
+        opacity: 0.04;
+      }
+
+      .cls-5 {
+        opacity: 0.06;
+      }
+
+      .cls-6 {
+        fill: #fa0;
+      }
+
+      .cls-7 {
+        fill: url(#未命名的渐变);
+      }
+
+      .cls-8 {
+        fill: url(#未命名的渐变_4);
+      }
+
+      .cls-9 {
+        fill: url(#未命名的渐变_17);
+      }
+
+      .cls-10 {
+        fill: #fafafa;
+      }
+
+      .cls-11 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="未命名的渐变" x1="166.012" y1="-572.012" x2="25.988" y2="-431.988" gradientTransform="matrix(1, 0, 0, -1, 0, -406)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-opacity="0.12"/>
+      <stop offset="0.5" stop-color="gray" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_4" data-name="未命名的渐变 4" x1="166.012" y1="-572.012" x2="25.987" y2="-431.988" gradientTransform="matrix(1, 0, 0, -1, 0, -406)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-opacity="0.05"/>
+      <stop offset="0.5" stop-color="gray" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="未命名的渐变_17" data-name="未命名的渐变 17" x1="165.978" y1="166.017" x2="63.911" y2="63.95" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-opacity="0.02"/>
+      <stop offset="1" stop-opacity="0.1"/>
+    </linearGradient>
+  </defs>
+  <title>android_calculator</title>
+  <g id="图层_2" data-name="图层 2">
+    <g id="图层_1-2" data-name="图层 1">
+      <rect class="cls-1" width="192" height="192"/>
+      <g>
+        <path class="cls-2" d="M96,190C27.3,190,3,165.7,3,97S27.3,4,96,4s93,24.3,93,93S164.7,190,96,190Z"/>
+        <path class="cls-3" d="M96,189C28.1,189,4,164.9,4,97S28.1,5,96,5s92,24.1,92,92S163.9,189,96,189Z"/>
+        <path class="cls-4" d="M96,188C28.8,188,5,164.2,5,97S28.8,6,96,6s91,23.8,91,91S163.2,188,96,188Z"/>
+        <path class="cls-5" d="M186,97c0,66.7-23.3,90-90,90S6,163.7,6,97,29.3,7,96,7,186,30.3,186,97Z"/>
+      </g>
+      <path class="cls-6" d="M186,96c0,66.7-23.3,90-90,90S6,162.7,6,96,29.3,6,96,6,186,29.3,186,96Z"/>
+      <path class="cls-7" d="M186,96c0,66.7-23.3,90-90,90S6,162.7,6,96,29.3,6,96,6,186,29.3,186,96Z"/>
+      <path class="cls-8" d="M96,6C29.3,6,6,29.3,6,96s23.3,90,90,90,90-23.3,90-90S162.7,6,96,6Zm68.6,158.6C151.2,178,130,184,96,184s-55.2-6-68.6-19.4S8,130,8,96s6-55.2,19.4-68.6S62,8,96,8s55.2,6,68.6,19.4S184,62,184,96,178,151.2,164.6,164.6Z"/>
+      <path class="cls-9" d="M185.877,103.983l-41.43-41.43L47.97,79.89,79.083,111H67.92L48.509,130.414l55.4,55.465C161.936,184.108,184.088,161.973,185.877,103.983Z"/>
+      <path class="cls-10" d="M52.917,82A6.917,6.917,0,0,1,46,75.083V66.917A6.917,6.917,0,0,1,52.917,60h86.166A6.917,6.917,0,0,1,146,66.917v8.166A6.917,6.917,0,0,1,139.083,82Zm86.166,50A6.917,6.917,0,0,0,146,125.083v-8.166A6.917,6.917,0,0,0,139.083,110H52.917A6.917,6.917,0,0,0,46,116.917v8.166A6.917,6.917,0,0,0,52.917,132Z"/>
+      <g>
+        <path class="cls-11" d="M47,77.083V68.917A6.917,6.917,0,0,1,53.917,62h86.166a6.9,6.9,0,0,1,5.612,2.885A6.919,6.919,0,0,0,139.083,60H52.917A6.917,6.917,0,0,0,46,66.917v8.166a6.871,6.871,0,0,0,1.3,4.032A6.882,6.882,0,0,1,47,77.083Z"/>
+        <path class="cls-11" d="M47,127.083v-8.166A6.917,6.917,0,0,1,53.917,112h86.166a6.9,6.9,0,0,1,5.612,2.885A6.919,6.919,0,0,0,139.083,110H52.917A6.917,6.917,0,0,0,46,116.917v8.166a6.871,6.871,0,0,0,1.3,4.032A6.882,6.882,0,0,1,47,127.083Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
