@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-themepack-n9ish
+Exec=invoker --type=generic -s /usr/bin/harbour-themepack-n9ish
+Name=N9ish Icons
