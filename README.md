@@ -14,6 +14,8 @@ Remember to install [Theme Pack support](https://openrepos.net/content/fravaccar
 Thanks to [fravaccaro](https://github.com/fravaccaro/) for making [Themepack Companion](https://github.com/fravaccaro/harbour-themepack-companion) which is used in project.
 
 
+Apps that use the N9-ish style icons are listed [here](https://github.com/speactra/harbour-themepack-n9ish/blob/master/changed_icons.txt).
+
 ---
 
 
