@@ -117,11 +117,16 @@ Page
                 onClicked: Qt.openUrlExternally("https://openrepos.net/content/fravaccaro/evolve-plus-icons")
             }
 
+            SectionHeader { text: qsTr("About") }
             LabelText {
                 text: qsTr("As for now SailfishX (X, XA2) is supported. It may work on other screen sizes. I have not converted the icons to all sizes, and as the base icons is .png there is no scalable icons.")
             }
+            LabelText {
+                text: qsTr("Icon conversion and compiling is made by speactra")
+            }
 
-            SectionHeader { text: qsTr("Icon request") }
+
+            /*SectionHeader { text: qsTr("Icon request") }
 
             LabelText {
                 text: qsTr("From here you can request missing icons for your favorite apps.")
@@ -142,7 +147,7 @@ Page
                         busyindicator.running = true;
                         themePack.fetchIcons();
                 }
-            }
+            }*/
 
             SectionHeader { text: qsTr("Developers") }
 
