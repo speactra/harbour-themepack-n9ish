@@ -1,1 +1,20 @@
 # harbour-themepack-n9ish
+N9ish Icon Pack for Sailfish OS.
+--
+
+Remember to install [Theme Pack support](https://openrepos.net/content/fravaccaro/theme-pack-support-sailfish-os) before attempting to use the Icon Pack.
+
+
+Thanks to [fravaccaro](https://github.com/fravaccaro/) for making [Themepack Companion](https://github.com/fravaccaro/harbour-themepack-companion) which is used in project.
+
+
+---
+
+
+Compiled RPM available under [Github Releases](https://github.com/speactra/harbour-themepack-n9ish/releases)
+
+---
+
+**Credits:**
+* The N9-like icons used in this pack are made by hpluslabels on [XDA](https://forum.xda-developers.com/showthread.php?t=1363692)
+* Missing icons is filled with fravacarros [Evolve Plus Icon Pack](https://openrepos.net/content/fravaccaro/evolve-plus-icons)
