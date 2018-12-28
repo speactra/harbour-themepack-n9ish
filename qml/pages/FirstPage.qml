@@ -119,7 +119,7 @@ Page
 
             SectionHeader { text: qsTr("About") }
             LabelText {
-                text: qsTr("The base icons is .png there are no scalable icons.")
+                text: qsTr("The base icons is .png-format so there are no scalable icons, .svg-format.")
             }
             LabelText {
                 text: qsTr("Conversion of icons and packaging is made by speactra.")

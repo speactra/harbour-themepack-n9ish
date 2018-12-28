@@ -72,11 +72,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The base icons is .png there are no scalable icons.</source>
+        <source>Conversion of icons and packaging is made by speactra.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Conversion of icons and packaging is made by speactra.</source>
+        <source>The base icons is .png-format so there are no scalable icons, .svg-format.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
