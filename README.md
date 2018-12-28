@@ -8,8 +8,6 @@ N9ish Icon Pack for Sailfish OS.
 
 Remember to install [Theme Pack support](https://openrepos.net/content/fravaccaro/theme-pack-support-sailfish-os) before attempting to use the Icon Pack.
 
-*As for now SailfishX (X, XA2) is supported. It may work on other screen sizes. I have not converted the icons to all sizes, and as the base icons is .png there are no scalable icons. Does not work on Jolla 1 and Jolla C.*
-
 
 Thanks to [fravaccaro](https://github.com/fravaccaro/) for making [Themepack Companion](https://github.com/fravaccaro/harbour-themepack-companion) which is used in project.
 
