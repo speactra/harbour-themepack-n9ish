@@ -119,10 +119,10 @@ Page
 
             SectionHeader { text: qsTr("About") }
             LabelText {
-                text: qsTr("As for now SailfishX (X, XA2) is supported. It may work on other screen sizes. I have not converted the icons to all sizes, and as the base icons is .png there is no scalable icons.")
+                text: qsTr("The base icons is .png there are no scalable icons.")
             }
             LabelText {
-                text: qsTr("Icon conversion and compiling is made by speactra")
+                text: qsTr("Conversion of icons and packaging is made by speactra.")
             }
 
 

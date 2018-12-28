@@ -68,15 +68,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>As for now SailfishX (X, XA2) is supported. It may work on other screen sizes. I have not converted the icons to all sizes, and as the base icons is .png there is no scalable icons.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>About</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Icon conversion and compiling is made by speactra</source>
+        <source>The base icons is .png there are no scalable icons.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Conversion of icons and packaging is made by speactra.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
